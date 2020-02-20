@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-HelloTypeScript/1-HelloTypeScript.iml" filepath="$PROJECT_DIR$/1-HelloTypeScript/1-HelloTypeScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-TsWithJquery/2-TsWithJquery.iml" filepath="$PROJECT_DIR$/2-TsWithJquery/2-TsWithJquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-hellonodejs/3-hellonodejs.iml" filepath="$PROJECT_DIR$/3-hellonodejs/3-hellonodejs.iml" />
     </modules>
   </component>
 </project>

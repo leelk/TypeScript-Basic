@@ -1,0 +1,13 @@
+{
+  "name": "6-HelloNodeJsSeccond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "start": "node ./app/dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

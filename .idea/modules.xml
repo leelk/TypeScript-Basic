@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-HelloTypeScript/1-HelloTypeScript.iml" filepath="$PROJECT_DIR$/1-HelloTypeScript/1-HelloTypeScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-TsWithJquery/2-TsWithJquery.iml" filepath="$PROJECT_DIR$/2-TsWithJquery/2-TsWithJquery.iml" />
+    </modules>
+  </component>
+</project>

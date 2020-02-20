@@ -1,0 +1,15 @@
+{
+  "name": "2-tswithjquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.32",
+    "typescript": "^3.7.5"
+  }
+}
